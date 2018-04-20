@@ -5,7 +5,7 @@
 #include <opencv2/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
-#include <unistd.h>
+// #include <unistd.h>
 #include <iostream>
 
 using namespace std;
@@ -69,7 +69,7 @@ int main(int argc, char *argv[]) {
         char c = (char)cv::waitKey(1);
         if( c == 27 )
             break;
-        usleep(10); //delay
+        // usleep(10); //delay
     }
     TessDeleteText(text);
 	TessBaseAPIEnd(handle);
