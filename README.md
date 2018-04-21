@@ -13,7 +13,7 @@
 ## How to use
 
 
-# Our Team
+## Our Team
 |<a href="https://www.facebook.com/kawisara.srn"><img src="https://avatars0.githubusercontent.com/u/32617105?s=400&v=4" width="100px"></a>  |<a href="https://www.facebook.com/shiroi.youkai"><img src="https://avatars0.githubusercontent.com/u/32834492?s=400&v=4" width="100px"></a>  |<a href="https://www.facebook.com/fernarmyz"><img src="/image/fernarmyz" width="100px"></a>  |
 |:-:|:-:|:-:|:-:|:-:|
 |@zelotype|@tharinee|@fernarmyz
@@ -21,7 +21,7 @@
 |60070002|60070033|60070039|:-:|:-:|
 
 
-# Assistant Teacher
+## Assistant Teacher
 |ผศ. ดร. กิติ์สุชาติ พสุภา|ผศ. ดร. ปานวิทย์ ธุวะนุติ|
 |:-:|:-:|
 |![](/image/Aj.Oong.png)|![](/image/Aj.Panwit.png)|
