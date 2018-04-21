@@ -22,7 +22,7 @@
 |<a href="https://www.facebook.com/kawisara.srn"><img src="https://avatars0.githubusercontent.com/u/32617105?s=400&v=4" width="100px"></a>  |<a href="https://www.facebook.com/shiroi.youkai"><img src="https://avatars0.githubusercontent.com/u/32834492?s=400&v=4" width="100px"></a>  |<a href="https://www.facebook.com/fernarmyz"><img src="https://avatars1.githubusercontent.com/u/32330533?s=400&u" width="100px"></a>|
 |:-:|:-:|:-:|
 |[@zelotype](https://github.com/zelotype)|[@tharinee](https://github.com/tharinee)|[@fernarmyz](https://github.com/fernarmyz)|
-|Kawisara Bunyen|tharinee Keowprayoon|Nantatchaporn Thangsuk|
+|Kawisara Bunyen|Tharinee Keowprayoon|Nantatchaporn Thangsuk|
 |60070002|60070033|60070039|
 
 
