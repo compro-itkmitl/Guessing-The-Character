@@ -19,7 +19,7 @@
 
 
 # Our Team
-|<a href="https://www.facebook.com/kawisara.srn"><img src="https://avatars0.githubusercontent.com/u/32617105?s=400&v=4" width="100px"></a>  |<a href="https://www.facebook.com/shiroi.youkai"><img src="https://avatars0.githubusercontent.com/u/32834492?s=400&v=4" width="100px"></a>  |<a href="https://www.facebook.com/fernarmyz"><img src="https://avatars1.githubusercontent.com/u/32330533?s=400&u" width="100px"></a>  |
+|<a href="https://www.facebook.com/kawisara.srn"><img src="https://avatars0.githubusercontent.com/u/32617105?s=400&v=4" width="100px"></a>  |<a href="https://www.facebook.com/shiroi.youkai"><img src="https://avatars0.githubusercontent.com/u/32834492?s=400&v=4" width="100px"></a>  |<a href="https://www.facebook.com/fernarmyz"><img src="https://avatars1.githubusercontent.com/u/32330533?s=400&u" width="100px"></a>
 |:-:|:-:|:-:|:-:|:-:|
 |@zelotype|@tharinee|@fernarmyz
 |Kawisara Bunyen|tharinee Keowprayoon|Nantatchaporn Thangsuk|:-:|:-:|
