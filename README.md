@@ -29,7 +29,7 @@
 # Assistant Teacher
 |ผศ. ดร. กิติ์สุชาติ พสุภา|ผศ. ดร. ปานวิทย์ ธุวะนุติ|
 |:-:|:-:|
-|![](/image/Aj.Oong.png)|![](/image/Aj.Panwit.png)|
+|![](/image/Aj.%20Oong.png)|![](/image/Aj.%20Panwit.png)|
 
 รายงานนี้เป็นส่วนหนึ่งของวิชา Computer Programming (รหัส 06016315)
 
