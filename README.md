@@ -24,11 +24,14 @@
 
 ## <img src="/image/install.png" width="30"> Installation
 โปรแกรมของพวกเรานั้นเป็นโปรแกรมที่ถูกสร้างและพัฒนาขึ้นผ่านระบบปฏิบัติการ Linux Ubuntu 16.04
-### Install library ดังนี้
+
+### Install OpenCV
 ```
-OpenCV
-Tesseract (Develop-tool)
-Leptonica
+http://www.codebind.com/cpp-tutorial/install-opencv-ubuntu-cpp/
+```
+### Install tesseract (Develop-tool) & Leptonica
+```
+https://github.com/tesseract-ocr/tesseract/wiki
 ```
 ### ทำการ Clone Reposity ลงเครื่อง
 ```
