@@ -80,3 +80,6 @@ interface ที่พวกเราสร้างนั้น สร้าง
 คณะเทคโนโลยีสารสนเทศ สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
 
 ---
+Faculty of Information Technology
+
+King Mongkut's Institute of Technology Ladkrabang
