@@ -1,4 +1,3 @@
-<img src="/image/Banner.jpg">
 # Guessing-The-Character
 
 ## <img src="/image/introduce.png" width="30"> Introduction
