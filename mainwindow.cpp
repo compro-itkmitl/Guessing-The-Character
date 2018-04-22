@@ -29,7 +29,7 @@ MainWindow::MainWindow(QWidget *parent) :
     if(TessBaseAPIInit3(handle, NULL, "eng") != 0)
         check("Error initialising tesseract\n");
 
-    capWebcam.open(2);
+    capWebcam.open(0);
 
 
     timer = new QTimer(this);
