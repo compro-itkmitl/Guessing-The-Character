@@ -19,7 +19,7 @@
 โปรแกรมของพวกเรามีกระบวนการการทำงานดังต่อไปนี้
 
 <p align="center">
-  <img src="/image/process.jpg" width="450"/>
+  <img src="/image/Process.jpg" width="450"/>
 </p>
 
 ## <img src="/image/interface.png" width="30"> Interface
