@@ -1,7 +1,11 @@
 # Guessing-The-Character
 
-## Introduction
+## ![](/image/icon01.png) Introduction
 สวัสดีค่ะ วันนี้กลุ่มของพวกเราก็ได้สร้างและพัฒนาโปรแกรม เกี่ยวกับ Image Processing โดยโปรแกรมของเรามีความสามารถในการดึงตัวอักษรจากรูปภาพหรือวิดีโอ มาแปลงเป็นตัวอักษรดิจิตอลได้ 
+
+# Benefit of Project
+1. สามารถนำไปต่อยอดในการสร้างโปรแกรมอื่นๆได้
+2. สามารถดึงข้อความที่เป็นรูปภาพออกมาใช้ประโยชน์ต่อได้
 
 # Tool
 เครื่องมือหรือ library ที่พวกเราใช้นั้น มีหลากหลายด้วยกัน ส่วนมากจะเป็น library ที่เกี่ยวข้องกับ Image processing ได้แก่
@@ -9,8 +13,6 @@
 2. OpenCV https://github.com/opencv/opencv
 3. Tesseract OCR https://github.com/tesseract-ocr/tesseract
 4. Leptonica https://github.com/DanBloomberg/leptonica
-
-
 
 # Interface
 โปรแกรมของพวกเรานั้นเป็นโปรแกรมที่ถูกสร้างและพัฒนาขึ้นผ่านระบบปฏิบัติการ Linux Ubuntu 16.04
