@@ -13,6 +13,7 @@
 2. OpenCV https://github.com/opencv/opencv
 3. Tesseract OCR https://github.com/tesseract-ocr/tesseract
 4. Leptonica https://github.com/DanBloomberg/leptonica
+5. Qt creator
 
 ## <img src="/image/interface.png" width="30"> Interface
 โปรแกรมของพวกเรานั้นเป็นโปรแกรมที่ถูกสร้างและพัฒนาขึ้นผ่านระบบปฏิบัติการ Linux Ubuntu 16.04
