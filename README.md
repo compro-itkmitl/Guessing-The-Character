@@ -1,6 +1,6 @@
 # Guessing-The-Character
 
-## ![](/image/icon01.png) Introduction
+## Introduction
 สวัสดีค่ะ วันนี้กลุ่มของพวกเราก็ได้สร้างและพัฒนาโปรแกรม เกี่ยวกับ Image Processing โดยโปรแกรมของเรามีความสามารถในการดึงตัวอักษรจากรูปภาพหรือวิดีโอ มาแปลงเป็นตัวอักษรดิจิตอลได้ 
 
 # Benefit of Project
