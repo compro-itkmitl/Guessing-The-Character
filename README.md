@@ -14,7 +14,7 @@
 3. Tesseract OCR https://github.com/tesseract-ocr/tesseract
 4. Leptonica https://github.com/DanBloomberg/leptonica
 
-##<img src="/image/interface.png" width="48">Interface
+## <img src="/image/interface.png" width="48">Interface
 โปรแกรมของพวกเรานั้นเป็นโปรแกรมที่ถูกสร้างและพัฒนาขึ้นผ่านระบบปฏิบัติการ Linux Ubuntu 16.04
 หน้าตาโปรแกรมของพวกเรามีหน้าตาอย่างนี้
 
