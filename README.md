@@ -16,6 +16,7 @@
 <p align="center">
   <img src="https://github.com/compro-itkmitl/Guessing-The-Character/blob/master/image/01.gif" width="450"/>
 </p>
+
 1. เปิดโปรแกรมขึ้นมาโดยที่โปรแกรมจะเปิดกล้องให้อัตโนมัติ
 2. นำภาพหรือหน้าจอสมารท์โฟนมาจ่อที่หน้ากล้อง
 3. รอสักครู่เพื่อให้โปรแกรมประมวลผล
