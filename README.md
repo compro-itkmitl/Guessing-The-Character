@@ -3,7 +3,7 @@
 ## Introduction
 สวัสดีค่ะ วันนี้กลุ่มของพวกเราก็ได้สร้างและพัฒนาโปรแกรม เกี่ยวกับ Image Processing โดยโปรแกรมของเรามีความสามารถในการดึงตัวอักษรจากรูปภาพหรือวิดีโอ มาแปลงเป็นตัวอักษรดิจิตอลได้ 
 
-## Tool
+# Tool
 เครื่องมือหรือ library ที่พวกเราใช้นั้น มีหลากหลายด้วยกัน ส่วนมากจะเป็น library ที่เกี่ยวข้องกับ Image processing ได้แก่
 1. C++ 
 2. OpenCV https://github.com/opencv/opencv
@@ -12,13 +12,27 @@
 
 
 
-## How to use
+# Interface
+โปรแกรมของพวกเรานั้นเป็นโปรแกรมที่ถูกสร้างและพัฒนาขึ้นผ่านระบบปฏิบัติการ Linux Ubuntu 16.04
+หน้าตาโปรแกรมของพวกเรามีหน้าตาอย่างนี้
+
+<p align="center">
+  <img src="https://github.com/compro-itkmitl/Guessing-The-Character/blob/master/image/program.png" width="450"/>
+</p>
+
+ส่วนประกอบของโปรแกรมนั้น ประกอบไปด้วย ตัวแสดงกล้อง, กล่องข้อความแสดงสิ่งที่โปรแกรมสามารถประมวลผลออกมา, ปุ่ม Pause หรือ Resume
+
+<p align="center">
+  <img src="https://github.com/compro-itkmitl/Guessing-The-Character/blob/master/image/user.jpg" width="450"/>
+</p>
+
+# How to use
 <p align="center">
   <img src="https://github.com/compro-itkmitl/Guessing-The-Character/blob/master/image/01.gif" width="450"/>
 </p>
 
 1. เปิดโปรแกรมขึ้นมาโดยที่โปรแกรมจะเปิดกล้องให้อัตโนมัติ
-2. นำภาพหรือหน้าจอสมารท์โฟนที่มีตัวอักษรภาษาอังกฤษมาจ่อที่หน้ากล้อง
+2. นำสิ่งที่มีตัวอักษรภาษาอังกฤษที่ต้องการให้คอมทายมาแสดงที่หน้ากล้อง
 3. รอสักครู่เพื่อให้โปรแกรมประมวลผล
 4. กดปุ่ม Pause 1 ครั้งเพื่อทำการหยุดโปรแกรม และกดอีกครั้งนึงเพื่อให้กลับมาทำงานต่อ
 
