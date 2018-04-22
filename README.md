@@ -37,6 +37,21 @@ https://github.com/tesseract-ocr/tesseract/wiki
 ```
 git clone https://github.com/compro-itkmitl/Guessing-The-Character.git
 ```
+### Install Qt creator
+```
+wget http://download.qt.io/official_releases/qt/5.7/5.7.0/qt-opensource-linux-x64-5.7.0.run
+```
+```
+chmod +x qt-opensource-linux-x64-5.7.0.run
+./qt-opensource-linux-x64-5.7.0.run
+```
+### Build Program จาก Reposity
+1. เปิด โปรแกรม Qt creator
+2. Open file or Project -> เลือก Guessingchar.pro
+3. กด Build code -> Run program
+<p align="center">
+  <img src="https://github.com/compro-itkmitl/Guessing-The-Character/blob/master/image/build.gif" width="450"/>
+</p>
 
 ## <img src="/image/interface.png" width="30"> Interface
 interface ที่พวกเราสร้างนั้น สร้างจากโปรแกรม Qt creator ใน Ubuntu 16.04
