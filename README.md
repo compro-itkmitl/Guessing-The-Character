@@ -1,6 +1,6 @@
 # Guessing-The-Character
 
-## <img src="/image/introduction.png" width="48"> Introduction
+## <img src="/image/introduce.png" width="48"> Introduction
 สวัสดีค่ะ วันนี้กลุ่มของพวกเราก็ได้สร้างและพัฒนาโปรแกรม เกี่ยวกับ Image Processing โดยโปรแกรมของเรามีความสามารถในการดึงตัวอักษรจากรูปภาพหรือวิดีโอ มาแปลงเป็นตัวอักษรดิจิตอลได้ 
 
 ## <img src="/image/benefit.png" width="48"> Benefit of Project
@@ -14,7 +14,7 @@
 3. Tesseract OCR https://github.com/tesseract-ocr/tesseract
 4. Leptonica https://github.com/DanBloomberg/leptonica
 
-## <img src="/image/interface.png" width="48">Interface
+## <img src="/image/interface.png" width="30"> Interface
 โปรแกรมของพวกเรานั้นเป็นโปรแกรมที่ถูกสร้างและพัฒนาขึ้นผ่านระบบปฏิบัติการ Linux Ubuntu 16.04
 หน้าตาโปรแกรมของพวกเรามีหน้าตาอย่างนี้
 
