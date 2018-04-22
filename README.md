@@ -15,6 +15,13 @@
 4. Leptonica https://github.com/DanBloomberg/leptonica
 5. Qt creator
 
+## <img src="/image/processicon.png" width="30"> Process of program
+โปรแกรมของพวกเรามีกระบวนการการทำงานดังต่อไปนี้
+
+<p align="center">
+  <img src="/image/process.jpg" width="450"/>
+</p>
+
 ## <img src="/image/interface.png" width="30"> Interface
 โปรแกรมของพวกเรานั้นเป็นโปรแกรมที่ถูกสร้างและพัฒนาขึ้นผ่านระบบปฏิบัติการ Linux Ubuntu 16.04
 หน้าตาโปรแกรมของพวกเรามีหน้าตาอย่างนี้
