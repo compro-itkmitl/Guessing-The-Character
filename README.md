@@ -22,8 +22,21 @@
   <img src="/image/Process.jpg" width="450"/>
 </p>
 
-## <img src="/image/interface.png" width="30"> Interface
+## <img src="/image/install.png" width="30"> Installation
 โปรแกรมของพวกเรานั้นเป็นโปรแกรมที่ถูกสร้างและพัฒนาขึ้นผ่านระบบปฏิบัติการ Linux Ubuntu 16.04
+### Install library ดังนี้
+```
+OpenCV
+Tesseract (Develop-tool)
+Leptonica
+```
+### ทำการ Clone Reposity ลงเครื่อง
+```
+git clone https://github.com/compro-itkmitl/Guessing-The-Character.git
+```
+
+## <img src="/image/interface.png" width="30"> Interface
+interface ที่พวกเราสร้างนั้น สร้างจากโปรแกรม Qt creator ใน Ubuntu 16.04
 หน้าตาโปรแกรมของพวกเรามีหน้าตาอย่างนี้
 
 <p align="center">
