@@ -50,7 +50,7 @@ chmod +x qt-opensource-linux-x64-5.7.0.run
 2. Open file or Project -> เลือก Guessingchar.pro
 3. กด Build code -> Run program
 <p align="center">
-  <img src="https://github.com/compro-itkmitl/Guessing-The-Character/blob/master/image/build.gif" width="450"/>
+  <img src="https://github.com/compro-itkmitl/Guessing-The-Character/blob/master/image/build.gif" width="750"/>
 </p>
 
 ## <img src="/image/interface.png" width="30"> Interface
