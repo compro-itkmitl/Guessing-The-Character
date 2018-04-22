@@ -1,5 +1,4 @@
 ![](/image/banner.jpg)
-# Guessing-The-Character
 
 ## <img src="/image/introduce.png" width="30"> Introduction
 สวัสดีค่ะ วันนี้กลุ่มของพวกเราก็ได้สร้างและพัฒนาโปรแกรม เกี่ยวกับ Image Processing โดยโปรแกรมของเรามีความสามารถในการดึงตัวอักษรจากรูปภาพหรือวิดีโอ มาแปลงเป็นตัวอักษรดิจิตอลได้ 
