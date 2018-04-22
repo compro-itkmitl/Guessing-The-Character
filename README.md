@@ -13,10 +13,10 @@
 
 
 ## How to use
-
-
-
-
+<p align="center">
+  <img src="https://github.com/compro-itkmitl/Guessing-The-Character/blob/master/image/01.gif" width="450"/>
+</p>
+กดปุ่ม Pause 1 ครั้งเพื่อทำการหยุดโปรแกรม และกดอีกครั้งนึงเพื่อให้กลับมาทำงานต่อ
 
 # Our Team
 |<a href="https://www.facebook.com/kawisara.srn"><img src="https://avatars0.githubusercontent.com/u/32617105?s=400&v=4" width="100px"></a>  |<a href="https://www.facebook.com/shiroi.youkai"><img src="https://avatars0.githubusercontent.com/u/32834492?s=400&v=4" width="100px"></a>  |<a href="https://www.facebook.com/fernarmyz"><img src="https://avatars1.githubusercontent.com/u/32330533?s=400&u" width="100px"></a>|
