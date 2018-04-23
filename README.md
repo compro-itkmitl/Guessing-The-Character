@@ -86,7 +86,7 @@ interface ที่พวกเราสร้างนั้น สร้าง
 
 
 ## <img src="/image/teacher.png" width="30"> Assistant Teacher
-|ผศ. ดร. กิติ์สุชาติ พสุภา|ผศ. ดร. ปานวิทย์ ธุวะนุติ|
+|ผศ. ดร. กิติ์สุชาต พสุภา|ผศ. ดร. ปานวิทย์ ธุวะนุติ|
 |:-:|:-:|
 |![](/image/Aj.%20Oong.png)|![](/image/Aj.%20Panwit.png)|
 
